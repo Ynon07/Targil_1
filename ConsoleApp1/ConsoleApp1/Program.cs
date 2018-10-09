@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Hub works");
+            Console.WriteLine("Git Hub works Ynon Hatotach");
         }
     }
 }
